@@ -33,13 +33,12 @@ def print_nonsense():
         25: "Simulating Doom on your device...",
         26: "Evaluating plan for world domin-\nPlease ignore the previous message.\nGenerating fake replacement message..."
     }
-
     print(print_msgs[rand])
 
-
-
 if __name__ == '__main__':
-    print("Welcome to the Password Guesser! Please enter a username.")
+    print("Welcome to the Password Guesser! To use our services, please login or create an account.")
+    sleep(0.3333)
+    print("Please enter a username.")
     print("Username:", end =' ')
     username = input()
     print("Please enter a password for {name}.".format(name=username))
