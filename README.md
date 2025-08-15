@@ -95,5 +95,5 @@ enjoy other working on other projects that I think are cool or useful, like
 You can see more of my projects in my project portfolio on my personal developer
 website, [zytronium.dev](https://zytronium.dev), or see more info about me on
 my [LinkedIn profile](https://www.linkedin.com/in/daniel-stelljes/). You can also
-find the occasional post about one of my project on my Bluesky profile, 
+find the occasional post about one of my projects on my Bluesky profile, 
 [‪@zytronium.dev‬](https://bsky.app/profile/zytronium.dev).
