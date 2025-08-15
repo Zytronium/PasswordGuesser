@@ -53,6 +53,13 @@ in order to guess your password, and then will tell you the password that you en
 at the start of the program. No data is saved, so if you do happen to input real
 login info, it makes no difference.
 
+### Features
+This program is rich with amazing features! To allow the program to correctly
+guess your password every time, the program incorporates the following features:
+
+- Password guessing
+- Bonus addware in [addware.py](addware.py)
+
 ### Background
 
 I made this program as a complete joke, but it also works with 100% accuracy. I
