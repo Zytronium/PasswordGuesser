@@ -59,7 +59,6 @@ I made this program as a complete joke, but it also works with 100% accuracy. I
 was inspired by a joke app that one of my classmates in Mobile App Development
 made, where it tells you that it can tell you your credit card number if you
 tell it your credit card number and "those 3 wacky numbers" (the security code).
-
 I was also inspired by one of my other projects, "[Funsole](https://github.com/Zytronium/funsole),"
 a Python console with fun commands like "self-destruct" and "password."
 
@@ -67,7 +66,7 @@ The most challenging part of writing this was coming up the random messages that
 appear while the program is "thinking." I wanted it to look like it's actually
 doing things to determine the most likely password, while making many of the
 messages funny if you look more closely. For example, "`Hashing provided username...`"
-looks like a legitimate action in the given context at first glance.
+looks like a legitimate action in this context at first glance.
 "`Analyzing frequency of character usage in password {password}`"
 also looks like it makes sense at first glance until you realize it's stating
 the password right there already. Or "`Simulating Doom on your device...`", which
@@ -76,3 +75,18 @@ is purely just a joke and is entirely unrelated to guessing the password.
 I hope this program gives you a laugh, and maybe you'll try it out as well. The
 output is randomized each time you run it, and there are many more funny
 messages hidden for you to find.
+
+----
+
+### About me
+
+Part of why I love programming is because I can make anything I want and put my
+creativity and logical skills to use. A major part of my personality is my humor.
+I love making joke projects like this one just because I can. However, I also
+enjoy other working on other projects that I think are cool or useful, like
+[The Faction Nexus](https://thefactionnexus.tech/home) and [Infinite 8-Bit Racing](https://play.google.com/store/apps/details?id=com.zytronium.a8bitracing).
+You can see more of my projects in my project portfolio on my personal developer
+website, [zytronium.dev](https://zytronium.dev), or see more info about me on
+my [LinkedIn profile](https://www.linkedin.com/in/daniel-stelljes/). You can also
+find the occasional post about one of my project on my Bluesky profile, 
+[‪@zytronium.dev‬](https://bsky.app/profile/zytronium.dev).
